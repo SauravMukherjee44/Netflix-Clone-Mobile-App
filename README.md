@@ -1,4 +1,4 @@
-<h1 align ="center">Netflix-Clone-Mobile</h1>
+<h1 align ="center">Netflix-Clone-Mobile-App</h1>
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
 *** make this better, please fork the repo and create a pull request or simply open
