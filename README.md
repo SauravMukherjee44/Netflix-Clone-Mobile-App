@@ -22,6 +22,21 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/SauravMukherjee44/Netflix-Clone.git">
+  <a href="git@github.com:jaspreet-singh-sahota/netflix-clone-react-capstone-project.git">
     <p align="center"> <img src="https://cdn.vox-cdn.com/thumbor/Yq1Vd39jCBGpTUKHUhEx5FfxvmM=/39x0:3111x2048/1200x800/filters:focal(39x0:3111x2048)/cdn.vox-cdn.com/uploads/chorus_image/image/49901753/netflixlogo.0.0.png" alt="React-logo" height="150" width="200"> </p>
   </a>
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+* [Installation](#installation)
+* [Live Link](#Live-Link-(Netlify))
+* [Built With](#built-with)
+* [Future Updates](#future-updates)
+* [Contact](#Authors)
+* [Acknowledgements](#acknowledgements)
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
