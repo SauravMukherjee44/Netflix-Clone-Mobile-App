@@ -47,14 +47,10 @@ Netflix clone App built with React and Redux. The objective of this project is t
   ## Built With
 
 - React
-- Redux
-- Redux-thunk
-- Eslint
-- Stylelint
 - Modules css
 - Styled components
-- yarn
 - npm
+- Javascript 
 - MovieDB API
 - React-youtube
 - Movie-Trailer
