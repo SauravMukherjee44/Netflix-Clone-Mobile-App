@@ -28,6 +28,12 @@
   <p align="center">
   <a href="https://netflix-clone-9b94a.web.app/" target="_blank"> VISIT NOW 🚀</a>
   </p>
+  
+  ## 📌 Sneak Peek  :
+![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(254).png)
+![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(256).png)
+![Shows](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(258).png)
+![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(257).png)
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -85,3 +91,14 @@ Give a ⭐️ if you like this project!
 [forks-url]: https://github.com/SauravMukherjee44/Netflix-Clone/network/members
 [stars-shield]: https://img.shields.io/github/stars/SauravMukherjee44/Netflix-Clone.svg?style=flat-square
 [stars-url]: https://github.com/SauravMukherjee44/Netflix-Clone/stargazers
+
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through below handles.
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sauravmukherjee44/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+
+© 2021 Saurav Mukherjee
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
